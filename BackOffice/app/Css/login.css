@@ -1,0 +1,69 @@
+body {
+background-image: url("../img/bg.jpg");
+background-size: cover;
+position: relative;
+}
+
+
+.logincart{
+  width: 40%;
+  margin: auto;
+}
+
+.panel {
+  background-color: #fff;
+  border-radius: 0;
+}
+
+.card {
+  background-image: url('../img/cardbg.jpg');
+  background-size: cover;
+  border: 0;
+    position: absolute;
+    width: 40%;
+    margin-top: 300px;
+    padding: 30px;
+
+}
+
+.card-title {
+  color: #e54749;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+  font-size: 50px;
+}
+
+.card-body {
+  color: #0f4c75;
+  margin: auto;
+  width: 70%;
+}
+
+.form-control {
+  border: 2px solid #efd6c2;
+  border-radius: 10px;
+  text-align: center;
+  height: 40px;
+  margin-bottom: 28px;
+}
+
+.btn-primary {
+  background-color: #f44e4f;
+  color: #fff;
+  border: 0;
+  width: 40%;
+  margin: auto;
+}
+.btn-primary:hover{
+  background-color: #32494a;
+}
+
+#registrate {
+  color: #0f4c75;
+  font-weight: 700;
+}
+
+footer {
+  position: absolute;
+  bottom: 20px;
+  color: #3282b8;
+}
